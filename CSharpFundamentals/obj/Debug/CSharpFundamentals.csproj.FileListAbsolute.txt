@@ -1,0 +1,7 @@
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojAssemblyReference.cache
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb

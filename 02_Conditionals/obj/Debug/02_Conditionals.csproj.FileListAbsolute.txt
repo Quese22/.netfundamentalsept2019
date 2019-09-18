@@ -1,0 +1,14 @@
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\02_Conditionals\obj\Debug\02_Conditionals.csprojAssemblyReference.cache
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\02_Conditionals\obj\Debug\02_Conditionals.csproj.CoreCompileInputs.cache
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\02_Conditionals\bin\Debug\02_Conditionals.dll
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\02_Conditionals\bin\Debug\02_Conditionals.pdb
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\02_Conditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\02_Conditionals\obj\Debug\02_Conditionals.csproj.CopyComplete
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\02_Conditionals\obj\Debug\02_Conditionals.dll
+C:\ElevenFiftywork\01_Gold\EFA\Fundamentals\CSharpFundamentals\02_Conditionals\obj\Debug\02_Conditionals.pdb
